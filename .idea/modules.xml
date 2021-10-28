@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A10/A10.iml" filepath="$PROJECT_DIR$/A10/A10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A11/A11.iml" filepath="$PROJECT_DIR$/A11/A11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A12/A12.iml" filepath="$PROJECT_DIR$/A12/A12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A13/A13.iml" filepath="$PROJECT_DIR$/A13/A13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A15/A15.iml" filepath="$PROJECT_DIR$/A15/A15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A17/A17.iml" filepath="$PROJECT_DIR$/A17/A17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A18/A18.iml" filepath="$PROJECT_DIR$/A18/A18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A19/A19.iml" filepath="$PROJECT_DIR$/A19/A19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A20/A20.iml" filepath="$PROJECT_DIR$/A20/A20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A21/A21.iml" filepath="$PROJECT_DIR$/A21/A21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A22/A22.iml" filepath="$PROJECT_DIR$/A22/A22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A23/A23.iml" filepath="$PROJECT_DIR$/A23/A23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A24/A24.iml" filepath="$PROJECT_DIR$/A24/A24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A25/A25.iml" filepath="$PROJECT_DIR$/A25/A25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A4/A4.iml" filepath="$PROJECT_DIR$/A4/A4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica 9/Practica 9.iml" filepath="$PROJECT_DIR$/Practica 9/Practica 9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiarea/multiarea.iml" filepath="$PROJECT_DIR$/multiarea/multiarea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pesetas a euros/pesetas a euros.iml" filepath="$PROJECT_DIR$/pesetas a euros/pesetas a euros.iml" />
+    </modules>
+  </component>
+</project>
