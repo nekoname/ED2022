@@ -20,9 +20,9 @@ public class Calculator {
                 operador2 = scan.nextDouble();
             }
             else {
-                operador2 = resultado[i];
+                operador2 = resultado[i-1];
             }
-            double resultadoFinal[] = calcular(election,operador1,operador2, resultado,i);
+        double resultadoFinal[] = calcular(election,operador1,operador2, resultado,i);
         if (i==9) {
             int y;
             for (int x = 0; x < 10; x++) {
@@ -33,8 +33,8 @@ public class Calculator {
         }
     }
         public static double[] calcular(int tipoOperacion, double o1, double o2, double []resultado,int i) {
-            if (resultado[i] != resultado[0])
-                o1 = resultado[i];
+            //if (resultado[i] != resultado[0])
+              //  o2 = resultado[i];
             switch (tipoOperacion) {
                 //en cada caso se hará una llamada al método calculador con los argumento:Tipo operación, operador1 y operador 2
                 case 1:
@@ -47,7 +47,7 @@ public class Calculator {
                     resultado[i] = o2 * o1;
                     break;
                 case 4:
-                    if (o2 != 0) {
+                    if (o1 != 0) {
                         resultado[i] = o2 / o1;
                     }
                     else {
