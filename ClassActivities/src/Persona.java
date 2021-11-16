@@ -15,26 +15,24 @@ public class Persona {
     public Persona(){
         nom = "";
         edad = 0;
-        dni = "12345678A";
+        dni = "";
         sexo= HOMBRE;
         peso = 0;
         altura = 0;
     }
-    public Persona(nom, edad,sexo){
-        this.nom = "";
-        this.edad = 0;
-        dni = "12345678A";
-        this.sexo= HOMBRE;
-        peso = 0;
-        altura = 0;
+    public Persona(String nom, int edad, char sexo){
+        this.nom = nom;
+        this.edad = edad;
+        this.sexo= sexo;
+
     }
-    public Persona(dni, peso){
-        nom = "";
-        edad = 0;
-        dni = "12345678A";
-        sexo= HOMBRE;
-        peso = 0;
-        altura = 0;
+    public Persona(String nom, int edad, char sexo,String dni, double peso, double altura){
+        this.nom = nom;
+        this.edad = edad;
+        this.dni = dni;
+        this.sexo= sexo;
+        this.peso = peso;
+        this.altura = altura;
     }
     public static void main(String[] args) {
 
